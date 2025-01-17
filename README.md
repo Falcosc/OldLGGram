@@ -9,6 +9,8 @@ If you know the filename, you can find some old versions. But I wasn't able to f
 
 For that reason, I provided the program folder of the latest LG Control Center version extracted from an LG Gram 14Z970 installation. [2018_LG_Control_Center_FilesOnly.zip](https://github.com/Falcosc/OldLGGram/raw/main/2018_LG_Control_Center_FilesOnly.zip)
 
+I am not sure about OSD and Hotkey Manager, but maybe it could work as well, here the matching executables. [2018_LG_OSD_HotKey_FilesOnly.zip](https://github.com/Falcosc/OldLGGram/raw/main/2018_LG_OSD_HotKey_FilesOnly.zip)
+
 ![14Z970](14Z970_ControlCenter.jpg)
 
 The 2018 Version does even work without installation, and some functions also work on my 2023 15Z90RT. 
